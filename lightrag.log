@@ -1,0 +1,14 @@
+2025-05-06 21:40:51,388 - lightrag - INFO - Created new empty graph
+2025-05-06 21:40:51,405 - lightrag - INFO - Process 19976 KV load full_docs with 0 records
+2025-05-06 21:40:51,406 - lightrag - INFO - Process 19976 KV load text_chunks with 0 records
+2025-05-06 21:40:51,406 - lightrag - INFO - Process 19976 KV load llm_response_cache with 0 records
+2025-05-06 21:40:51,409 - lightrag - INFO - Process 19976 doc status load doc_status with 3 records
+2025-05-06 21:40:51,436 - lightrag - INFO - Storage Initialization completed!
+2025-05-06 21:40:51,437 - lightrag - INFO - Storage Finalization completed!
+2025-05-06 21:41:50,339 - lightrag - INFO - Created new empty graph
+2025-05-06 21:41:50,357 - lightrag - INFO - Process 4340 KV load full_docs with 0 records
+2025-05-06 21:41:50,367 - lightrag - INFO - Process 4340 KV load text_chunks with 0 records
+2025-05-06 21:41:50,367 - lightrag - INFO - Process 4340 KV load llm_response_cache with 0 records
+2025-05-06 21:41:50,370 - lightrag - INFO - Process 4340 doc status load doc_status with 3 records
+2025-05-06 21:41:50,375 - lightrag - INFO - Storage Initialization completed!
+2025-05-06 21:41:50,376 - lightrag - INFO - Storage Finalization completed!

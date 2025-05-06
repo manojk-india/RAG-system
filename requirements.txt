@@ -4,3 +4,12 @@ pdfminer.six
 langchain
 faiss-cpu
 sentence-transformers
+lightrag-hku 
+ollama 
+pdfplumber
+textract
+
+
+
+# ollama pull nomic-embed-text
+# ollama pull mistral

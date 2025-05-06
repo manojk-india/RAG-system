@@ -5,8 +5,7 @@ from sentence_transformers import SentenceTransformer
 from typing import List
 from utils import *
 
-# 1. First, install required packages:
-# pip install langchain faiss-cpu sentence-transformers
+
 
 # creating a vector index file 
 async def create_vector_store(text: str, index_path: str = "vector_store.index"):
@@ -59,3 +58,4 @@ async def one_shot_vectorizer():
     
     # 2. Create and save vector store
     await create_vector_store(pdf_text)
+
